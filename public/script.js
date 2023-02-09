@@ -1,0 +1,1 @@
+alert("Click On the TextUtilis Logo Bar to Start The React App")
